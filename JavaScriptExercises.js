@@ -333,7 +333,7 @@ function convertAmountToCoins14(){
     
    
 
-// }
+//}
 
 function powerOfNumber15(){
     let inputStrJs15=document.getElementById("numberInputJs15");
